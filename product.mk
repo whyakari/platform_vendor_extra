@@ -44,7 +44,9 @@ TARGET_PRODUCT_PROP += vendor/extra/gameprops/gameprops.prop
 # LMOFreeform
 PRODUCT_PACKAGES += \
     LMOFreeform \
-    LMOFreeformSidebar
+    LMOFreeformSidebar \
+    Datura
+
 
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/extra/overlay/common
